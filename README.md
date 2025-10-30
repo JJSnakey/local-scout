@@ -2,7 +2,7 @@
 
 *Local Scout is a full-stack web app built with TypeScript, Node.js, and AWS that helps users discover nearby amenities using Google Maps and Places APIs.*
 
-<img width="959" height="468" alt="image" src="https://github.com/user-attachments/assets/f768270c-7592-4f71-a9ba-6c791557958c" />
+<img width="958" height="470" alt="1" src="https://github.com/user-attachments/assets/f6e56fee-681e-4324-92e1-e34be1c60162" />
 
 ## Overview
 
@@ -67,15 +67,16 @@ And its hosted live right now!
 ## Screenshots
 
 ### Desktop View
-<img width="1916" height="976" alt="Lightmode" src="https://github.com/user-attachments/assets/15211362-a28a-4385-95bb-481ccb7938c4" />
+<img width="958" height="470" alt="1" src="https://github.com/user-attachments/assets/9a9dd53f-309f-43f2-8143-cef6e33818e9" />
 
 
 ### Mobile Responsive
-<img width="384" height="725" alt="image" src="https://github.com/user-attachments/assets/a01e0022-3da2-4287-84f4-cc8b8fbbfe25" />
+<img width="185" height="344" alt="mobile" src="https://github.com/user-attachments/assets/9f93d101-63e3-46fb-a1c7-14f322b54623" />
 
 
 ### Dark Mode
-<img width="1912" height="980" alt="Darkmode" src="https://github.com/user-attachments/assets/e2c0ca73-e598-46fa-8270-2568d8cdc4c5" />
+<img width="1912" height="980" alt="Darkmode" src="https://github.com/user-attachments/assets/c6f785e6-de45-47d5-9d1d-ab73aa3ae197" />
+
 
 ## Features in Detail
 
