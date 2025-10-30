@@ -1,0 +1,1 @@
+{"root":["./scripts/main.ts","./scripts/app/localscoutapp.ts","./scripts/app/configapi.ts","./scripts/app/types.ts","./scripts/dom/elements.ts","./scripts/features/darkmode.ts","./scripts/features/resultsrenderer.ts","./scripts/features/search.ts","./scripts/features/maps/mapmanager.ts"],"version":"5.9.3"}

@@ -1,0 +1,47 @@
+:root {
+    /*Background Colors*/
+    --bg-primary: #ffffff;
+    --bg-secondary: #f5f5f5;
+    --bg-tertiary: #f8f9fa;
+    --bg-hover: #e8f0fe;
+    --map-bg-color: #e5e3df;
+    --search-info-bg: #e8f0fe;
+
+    /*Text Colors*/
+    --text-primary: #1a1a1a;
+    --text-secondary: #333;
+    --text-tertiary: #666;
+    --text-quaternary: #999;
+    --search-info-text: #1a1a1a;
+    
+    /*Other Colors*/
+    --border-color: #e0e0e0;
+    --accent-color: #4285f4;
+    --accent-hover: #3367d6;
+    --shadow: rgba(0,0,0,0.05);
+    --shadow-strong: rgba(0,0,0,0.1);
+
+    /*Spacing*/
+    --primary-padding: 24px;
+    --secondary-padding: 18px;
+    --third-padding: 16px;
+    --fourth-padding: 12px;
+    
+    --margin-large: 32px;
+    --margin-med: 18px;
+    --margin-small: 8px;
+
+    --list-gap: 8px;
+
+    /*Font Sizes*/
+    --header-fs: 24px;
+    --h2-fs: 18px;
+    --paragraph-fs: 14px;
+    --placecard-fs: 16px;
+
+    /*Borders*/
+    --radius: 8px;
+
+    /**/
+    --sidebar-width: 320px;
+}

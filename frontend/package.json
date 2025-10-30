@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "esbuild scripts/main.ts --bundle --minify --outfile=dist/bundle.js && cp -r styles dist/styles && cp -r img dist/img"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.11"
+  }
+}

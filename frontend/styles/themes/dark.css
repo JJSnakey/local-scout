@@ -1,0 +1,23 @@
+body.dark-mode {
+    /*Background Colors*/
+    --bg-primary: #1e1e1e;
+    --bg-secondary: #121212;
+    --bg-tertiary: #2a2a2a;
+    --bg-hover: #1a3a52;
+    --map-bg-color: #2a2a2a;
+    --search-info-bg: #1a3a52;
+
+    /*Text Colors*/
+    --text-primary: #e8e8e8;
+    --text-secondary: #d0d0d0;
+    --text-tertiary: #a0a0a0;
+    --text-quaternary: #707070;
+    --search-info-text: #e8e8e8;
+
+    /*Other Colors*/
+    --border-color: #3a3a3a;
+    --accent-color: #5a9fd4;
+    --accent-hover: #4a8fc4;
+    --shadow: rgba(0,0,0,0.3);
+    --shadow-strong: rgba(0,0,0,0.5);
+}

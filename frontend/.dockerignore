@@ -1,0 +1,24 @@
+# Dependencies
+node_modules
+
+# Build output (rebuilt inside container)
+dist
+
+# Cache and build artifacts
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Git and Docker
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
